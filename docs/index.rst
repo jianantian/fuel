@@ -20,7 +20,7 @@ Pylearn2_ neural network libraries.
 * Fuel allows you to easily read different types of data (NumPy binary files,
   CSV files, HDF5 files, text files) using a single interface which is based on
   Python's iterator types.
-* Provides a a series of wrappers around frequently used datasets such as
+* Provides a series of wrappers around frequently used datasets such as
   MNIST, CIFAR-10 (vision), the One Billion Word Dataset (text corpus), and
   many more.
 * Allows you iterate over data in a variety of ways, e.g. in order, shuffled,
